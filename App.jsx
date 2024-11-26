@@ -12,7 +12,7 @@ function  TodoList() {
  
   const  Addtext = () => {
 
-    const text = document.getElementById("text").value;
+    const text = document.getElementById("text");
     setResult(result + text);
     };
 
