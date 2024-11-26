@@ -8,7 +8,7 @@ root.render(
     <React.StrictMode>
         <TodoList />
     </React.StrictMode>,
-     document.getElementById('TodoList')
+
 );
 
 
